@@ -1,0 +1,8 @@
+1-https://stackoverflow.com/questions/48910837/r-layout-main-cannot-be-found-cannot-resolve-symbol-r
+
+
+2-https://stackoverflow.com/questions/37015030/session-app-error-installing-apk/37657082
+
+
+
+3-https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it
